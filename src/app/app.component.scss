@@ -1,0 +1,32 @@
+.first-portion{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 30px;
+    font-size: 2em;
+    color: #fff;;
+    background-color: #808080;
+    border: 2px solid #000;
+    
+}
+.second-portion{
+    text-align: center;
+    padding: 25px 0px;
+    border: 2px solid #A9A9A9;
+    font-size: 20px;
+    background-color:#C0C0C0;
+}
+.third-portion{
+    display: flex;
+    justify-content: space-between;
+}
+app-table{
+    background-color: gray;
+    width: 33%;
+    border: 1px solid #000;
+    font-size: 18px;
+    text-align: center;
+}
+app-table:hover{
+    background-color: black;
+    color: #fff;
+}
